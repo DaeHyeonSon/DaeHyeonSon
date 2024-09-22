@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h3 align="center">Hi there 👋</h3>
+  <h2 align="center">Hi there 👋</h2>
 </p>
 
 
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=300&color=F7873F&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%3Ao+Woori+fisa+3%EA%B8%B0;Cloud+%EA%B3%B5%EB%B6%80%EB%A5%BC+%ED%95%98%EA%B3%A0%EC%9E%88%EB%8A%94+%EC%86%90%EB%8C%80%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 </p>
 
-<div align=center><h3>Tech-Stacks🛠️</h3></div>
+<div align=center><h2>Tech-Stacks🛠️</h2></div>
 <div align=center style="background-color: #87CEEB; padding: 10px; border-radius: 10px;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
