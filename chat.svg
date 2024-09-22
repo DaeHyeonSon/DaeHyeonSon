@@ -252,8 +252,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="210" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">ABAP 공부를 하고 있는</text>
-    <text x="15" y="50"> 김건우입니다.</text>
+    <text x="15" y="27">Cloud관련 공부를 하고 있는</text>
+    <text x="15" y="50">손대현입니다 😁</text>
   </g>
 
   <!-- typing 3 -->
@@ -277,8 +277,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="440" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">ABAP을 주로 사용하며</text>
-    <text x="15" y="50">모듈 컨설팅, 인프라, 보안에도 관심이 많습니다 🖥️</text>
+    <text x="15" y="27">AWS에 관심이 많으며,</text>
+    <text x="15" y="50">그 외에도 JAVA, 인프라, 보안에도 관심이 많습니다 🖥️</text>
   </g>
 
   <!-- typing 4 -->
@@ -299,12 +299,12 @@
 
   </g>
 
-  <!-- Twitter -->
+  <!-- Twitter 
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="500" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">그리고 SYNC 4기 대상 수상한 <a href="https://github.com/SYNC-Project-CL5">암쏘타이어</a> 도 구경해주세요 !</text>
   </g>
-
+  -->
 
 
   <!-- typing 5 -->
