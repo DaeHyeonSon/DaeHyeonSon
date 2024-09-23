@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h2 align="center">Hi there 👋</h2>
+  <h3 align="center">Hi there 👋</h3>
 </p>
 
 
@@ -26,7 +26,7 @@ asd
 </div>
 
 
-<div align=center><h2>Tech-Stacks🛠️</h2></div>
+<div align=center><h3>Tech-Stacks🛠️</h3></div>
 <div align=center style="background-color: #87CEEB; padding: 10px; border-radius: 10px;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -43,6 +43,8 @@ asd
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" style="background-color:white; border-radius: 8px; margin-right: 10px;"><br>
 </div>
 
+
+## Collection of ongoing projects
 
 
 ## Previous research projects
