@@ -45,7 +45,7 @@ asd
 
 <hr>
 
-*최종 업데이트: 2024년 9월 23일*
+*최종 업데이트: 2024년 9월 24일*
 
 # 🙄 My-Projects-Portfolio
 다양한 아이디어를 바탕으로 직접 기획하고 탐구하며 완성한 미니 프로젝트들을 모아 놓은 공간입니다. 
@@ -66,7 +66,7 @@ asd
 | 2 | **Linux_PAM - VM 네트워크 및 보안 강화** | Linux 환경에서 보안 강화를 위해 PAM을 활용한 규제 설정 | Linux, VirtualBox, PAM | 👩‍💻 | [GitHub 링크](https://github.com/DaeHyeonSon/Linux_PAM) | 2024-09-19 |
 | 3 | **TIL-Crontab-자동 파일 정리 시스템** | Crontab을 이용한 TIL(Today I Learned) 정리 자동화 시스템 | Linux, Crontab, Bash scripting | 👨‍👨‍👧 (2명) | [GitHub 링크](https://github.com/DaeHyeonSon/Crontab_Test) | 2024-09-20 |
 | 4 | **Average Load 학습** | Linux 환경에서 Average Load와 성능 모니터링에 대한 이해 & stress를 통한 CPU 부하 관리 | Linux, Bash scripting, Average Load, stress | 👨‍👨‍👧 (2명) | [GitHub 링크](https://github.com/DaeHyeonSon/Average-Load-in-Linux) | 2024-09-23 |
-| 5 | **Dokcer 학습** | Linux 환경에서 Average Load와 성능 모니터링에 대한 이해 & stress를 통한 CPU 부하 관리 | Linux, Bash scripting, Average Load, stress | 👨‍👨‍👧 (2명) | [GitHub 링크](https://github.com/DaeHyeonSon/Average-Load-in-Linux) | 2024-09-23 |
+| 5 | **Dokcer 최적화 이미지 방법론 학습** | Docker 이미지를 최적화를 위한 방법론에 대해 분석한 뒤 예제를 통해 최적화를 진행 | Docker, Linux, Bash scripting | 👨‍👨‍👧 (2명) | [GitHub 링크](https://github.com/DaeHyeonSon/Docker-Image-Optimization) | 2024-09-24 |
 
 <br>
 
