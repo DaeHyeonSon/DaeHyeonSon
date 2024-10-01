@@ -67,7 +67,7 @@ asd
 | 3 | **TIL-Crontab-자동 파일 정리 시스템** | Crontab을 이용한 TIL(Today I Learned) 정리 자동화 시스템 | Linux, Crontab, Bash scripting | 👨‍👨‍👧 (2명) | [GitHub 링크](https://github.com/DaeHyeonSon/Crontab_Test) | 2024-09-20 |
 | 4 | **Average Load 학습** | Linux 환경에서 Average Load와 성능 모니터링에 대한 이해 & stress를 통한 CPU 부하 관리 | Linux, Bash scripting, Average Load, stress | 👨‍👨‍👧 (2명) | [GitHub 링크](https://github.com/DaeHyeonSon/Average-Load-in-Linux) | 2024-09-23 |
 | 5 | **Dokcer 최적화 이미지 방법론 학습** | Docker 이미지를 최적화를 위한 방법론에 대해 분석한 뒤 예제를 통해 최적화를 진행 | Docker, Linux, Bash scripting | 👨‍👨‍👧 (2명) | [GitHub 링크](https://github.com/DaeHyeonSon/Docker-Image-Optimization) | 2024-09-24 |
-| 6 | **Trivy를 활용한 취약점분석** | Trivy를 활용하여 Docker 이미지 및 Git Repository취약점 분석 | Docker, Linux, Bash, Trivy, Python, Git | 👨‍👨‍👧 (2명) | [GitHub 링크]([https://github.com/DaeHyeonSon/Docker-Image-Optimization](https://github.com/DaeHyeonSon/Security-Analysis-Using-Trivy)) | 2024-09-26 |
+| 6 | **Trivy를 활용한 취약점분석** | Trivy를 활용하여 Docker 이미지 및 Git Repository취약점 분석 | Docker, Linux, Bash, Trivy, Python, Git | 👨‍👨‍👧 (2명) | [GitHub 링크](https://github.com/DaeHyeonSon/Security-Analysis-Using-Trivy) | 2024-09-26 |
 
 <br>
 
