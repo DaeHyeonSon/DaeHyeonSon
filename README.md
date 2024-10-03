@@ -45,7 +45,7 @@ asd
 
 <hr>
 
-*최종 업데이트: 2024년 10월 01일*
+*최종 업데이트: 2024년 10월 04일*
 
 # 🙄 My-Projects-Portfolio
 다양한 아이디어를 바탕으로 직접 기획하고 탐구하며 완성한 미니 프로젝트들을 모아 놓은 공간입니다. 
@@ -68,7 +68,7 @@ asd
 | 4 | **Average Load 학습** | Linux 환경에서 Average Load와 성능 모니터링에 대한 이해 & stress를 통한 CPU 부하 관리 | Linux, Bash scripting, Average Load, stress | 👨‍👨‍👧 (2명) | [GitHub 링크](https://github.com/DaeHyeonSon/Average-Load-in-Linux) | 2024-09-23 |
 | 5 | **Dokcer 최적화 이미지 방법론 학습** | Docker 이미지를 최적화를 위한 방법론에 대해 분석한 뒤 예제를 통해 최적화를 진행 | Docker, Linux, Bash scripting | 👨‍👨‍👧 (2명) | [GitHub 링크](https://github.com/DaeHyeonSon/Docker-Image-Optimization) | 2024-09-24 |
 | 6 | **Trivy를 활용한 취약점분석** | Trivy를 활용하여 Docker 이미지 및 Git Repository취약점 분석 | Docker, Linux, Bash, Trivy, Python, Git | 👨‍👨‍👧 (2명) | [GitHub 링크](https://github.com/DaeHyeonSon/Security-Analysis-Using-Trivy) | 2024-09-26 |
-| 7 | **K8S Configuration** | Docker 이미지를 Kubernetes를 통한 배포 싧습 | Docker, Linux, Bash, Kubernetes, Minikube | 👩‍💻 | [GitHub 링크](https://github.com/DaeHyeonSon/Security-Analysis-Using-Trivy) | 2024-10-02 |
+| 7 | **K8S Configuration** | Docker 이미지를 Kubernetes를 통한 배포 싧습 | Docker, Linux, Bash, Kubernetes, Minikube | 👩‍💻 | [GitHub 링크](https://github.com/DaeHyeonSon/K8S_Configuration) | 2024-10-02 |
 
 <br>
 
