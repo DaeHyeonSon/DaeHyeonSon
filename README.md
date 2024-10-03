@@ -72,8 +72,6 @@ asd
 
 <br>
 
-Trivy를 활용한 Docker 이미지 및 Git Repository취약점 분석
-
 ### ✨ JAVA 프로젝트 목록 ✨
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
