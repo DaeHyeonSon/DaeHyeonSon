@@ -72,7 +72,7 @@ asd
 | 8 | **Stress Test** | Stress Tool을 활용한 부하 테스트 | Jmeter, Linux, Bash, Stress | 👩‍💻 | [GitHub 링크](https://github.com/DaeHyeonSon/stress_test) | 2024-10-09 |
 | 9 | **AWS 및 Jenkins를 활용한 파이프라인 구축** | AWS 및 Jenkins를 활용하여 CI/CD 파이프라인 구축하는 실습 | docker, Linux, Bash, CI/CD, AWS, Jenkins | 👨‍👨‍👧 (4명) | [GitHub 링크](https://github.com/DaeHyeonSon/aws-pipe-line-construct) | 2024-10-11 |
 | 10 | **Sonarqube를 활용한 Jenkins CI/CD 파이프라인 구축** |  Sonarqube를 활용하여 보안성이 향상된 Jenkins CI/CD 파이프라인 구축 | docker, Linux, Bash, CI/CD, Sonarqube, Jenkins | 👨‍👨‍👧 (4명) | [GitHub 링크](https://github.com/DaeHyeonSon/Shared-library) | 2024-10-21 |
-| 11 | **[WeER] gitops 구축** | git 및 ArgoCD를 활용하여 배포환경 구축 | git, Linux, Bash, ArgoCD | 👨‍👨‍👧 (5명) | [GitHub 링크](https://github.com/Woori-Emergency/WeER_gitops/blob/develop/applications/weer/base/weer.yaml) | 2024-11-29 |
+| 11 | **[WeER] gitops 구축** | git 및 ArgoCD를 활용하여 배포환경 구축 | git, Linux, Bash, ArgoCD | 👨‍👨‍👧 (5명) | [GitHub 링크](https://github.com/Woori-Emergency/WeER_gitops) | 2024-11-29 |
 
 <br>
 
