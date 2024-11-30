@@ -72,7 +72,7 @@ asd
 | 8 | **Stress Test** | Stress Tool을 활용한 부하 테스트 | Jmeter, Linux, Bash, Stress | 👩‍💻 | [GitHub 링크](https://github.com/DaeHyeonSon/stress_test) | 2024-10-09 |
 | 9 | **AWS 및 Jenkins를 활용한 파이프라인 구축** | AWS 및 Jenkins를 활용하여 CI/CD 파이프라인 구축하는 실습 | docker, Linux, Bash, CI/CD, AWS, Jenkins | 👨‍👨‍👧 (4명) | [GitHub 링크](https://github.com/DaeHyeonSon/aws-pipe-line-construct) | 2024-10-11 |
 | 10 | **Sonarqube를 활용한 Jenkins CI/CD 파이프라인 구축** |  Sonarqube를 활용하여 보안성이 향상된 Jenkins CI/CD 파이프라인 구축 | docker, Linux, Bash, CI/CD, Sonarqube, Jenkins | 👨‍👨‍👧 (4명) | [GitHub 링크](https://github.com/DaeHyeonSon/Shared-library) | 2024-10-21 |
-| 11 | **[WeER] gitops 구축** | git 및 ArgoCD를 활용하여 배포환경 구축 | git, Linux, Bash, ArgoCD | 👨‍👨‍👧 (5명) | [GitHub 링크](https://github.com/Woori-Emergency/WeER_gitops/blob/develop/applications/weer/base/weer.yaml) | 2024-11-29 |
+| 11 | **[WeER] gitops 구축** | git 및 ArgoCD를 활용하여 배포환경 구축 | git, Linux, Bash, ArgoCD | 👨‍👨‍👧 (5명) | [GitHub 링크](https://github.com/Woori-Emergency/WeER_gitops/blob/develop/applications/weer/base/weer.yaml) | 2024-11-29 |
 
 <br>
 
@@ -83,6 +83,7 @@ asd
 | 1  | **Java 스트림 및 람다를 이용한 코드 리팩토링** | Lambda와 Stream API를 이용해서 재능기부 프로젝트 리팩토링을 진행 | Java 17, 스트림 API, 람다 표현식 | 👨‍👨‍👧 <br> (4명) | [GitHub 링크](https://github.com/DaeHyeonSon/fisa3_Java_Refectoring) | 2024-07-19 |
 | 2  | **JPA 영속성 컨텍스트 학습을 위한 문제 제작** | JPA 영속성 컨텍스트의 동작 원리를 이해하기 위한 예제 문제 개발 | Java, JPA, 영속성 컨텍스트, JPQL, 엔티티 생명주기 | 👨‍👨‍👧 <br> (4명) | [GitHub 링크](https://github.com/DaeHyeonSon/jpaPractice) | 2024-08-02 |
 | 3  | **주선자가 보증하는 안전한 소개팅 서비스** | 주선자가 사용자 간의 소개팅을 주선하는 차별화된 소개팅 플랫폼 개발 | Spring Boot, JPA, RESTful API, JSP | 👨‍👨‍👧 &nbsp; (4명) | [GitHub 링크](https://github.com/DaeHyeonSon/WhiteClothesPeople) | 2024-09-10 |
+| 4  | **[WeER]응급실 가용 병상 실시간 모니터링 및 예약 서비스** | 응급실 가용 병상 실시간 모니터링 및 예약 서비스 개발 | Spring Boot, Spring Batch, Spring Security, JPA, RESTful API, JSP, React JS, AWS  | 👨‍👨‍👧 &nbsp; (5명) | [GitHub 링크](https://github.com/DaeHyeonSon/WhiteClothesPeople) | 2024-11-13 |
 
 ---
 
