@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=300&color=F7873F&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%3Ao+Woori+fisa+3%EA%B8%B0;Cloud+%EA%B3%B5%EB%B6%80%EB%A5%BC+%ED%95%98%EA%B3%A0%EC%9E%88%EB%8A%94+%EC%86%90%EB%8C%80%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75638&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%3AD+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4+%EC%86%90%EB%8C%80%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 </p>
 
 <div align=center>
@@ -52,7 +52,7 @@ asd
 
 <hr>
 
-*최종 업데이트: 2025년 01월 19일*
+*최종 업데이트: 2025년 01월 26일*
 
 # 🙄 My-Projects-Portfolio
 다양한 아이디어를 바탕으로 직접 기획하고 탐구하며 완성한 미니 프로젝트들을 모아 놓은 공간입니다. 
