@@ -26,7 +26,7 @@ asd
 </div>
 
 
-<div align=center><h3>Tech-Stacks🛠️</h3></div>
+<div align=center><h3>Tech-Stacks 🛠️</h3></div>
 <div align=center style="background-color: #87CEEB; padding: 10px; border-radius: 10px;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
